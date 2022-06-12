@@ -1,7 +1,9 @@
 # Cavanaugh Primary Categories plugin for WordPress
 
 Tested with:
+    
     Theme: TwentyTwentyOne
+    
     WP Version: 6.0
 
 FAQs:
