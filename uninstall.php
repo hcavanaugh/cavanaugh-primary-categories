@@ -8,7 +8,7 @@
  *
  */
 
-function primary_categories_uninstall() {
+function cavanaugh_primary_categories_uninstall() {
 
     // Security: If uninstall not called from WordPress, abort uninstall.
     if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ):
