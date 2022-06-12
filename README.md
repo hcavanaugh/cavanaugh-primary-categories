@@ -2,9 +2,9 @@
 
 Tested with:
     
-    Theme: TwentyTwentyOne
+Theme: TwentyTwentyOne
     
-    WP Version: 6.0
+WP Version: 6.0
 
 FAQs:
 
