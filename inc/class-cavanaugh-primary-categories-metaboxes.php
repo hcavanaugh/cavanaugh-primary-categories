@@ -74,7 +74,7 @@ if(!class_exists('Primary_Categories_Metaboxes')):
                     $saved_value = sanitize_text_field( $_POST[$taxonomy_name.'_primary_field'] );
                     //Verify that saved category value are from existing terms
                     if( in_array( $saved_value, $tax_values ) ):
-                        update_post_meta ( $post_id, '_primary_post_'.$taxonomy_name, $saved_value );
+                        update_post_meta( $post_id, '_primary_post_'.$taxonomy_name, $saved_value );
 					endif;
                 endif;
             endforeach;
