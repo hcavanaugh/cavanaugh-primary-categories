@@ -6,7 +6,7 @@ Theme: TwentyTwentyOne
     
 WP Version: 6.0
 
-FAQs:
+## FAQs:
 
 - When I click on a category page, it returns a 404 error
     - This can happen, especially on a new install when adding new categories. Flush your permalinks:
